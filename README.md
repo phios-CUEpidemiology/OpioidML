@@ -4,7 +4,7 @@
 - [Emilie Bruzelius](https://github.com/embruze)
 - Jeanette A. Stingone
 - Katherine Wheeler-Martin 
-- [Hanane Akbarnejad](https://akbarnejadhn.github.io/)
+- [Hanane Akbarnejad](https://github.com/Akbarnejadhn)
 - Christine M. Mauro 
 - Megan Marziali 
 - Hillary Samples 
